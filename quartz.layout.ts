@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-       by gh0stprince: "https://www1.flightrising.com/clan-profile/686640",
+       "site by gh0stprince": "https://www1.flightrising.com/clan-profile/686640"
     },
   }),
 }
