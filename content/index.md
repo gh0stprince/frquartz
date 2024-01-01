@@ -20,3 +20,4 @@ tags:
 | [Tomo's Trivia Guide](https://www1.flightrising.com/forums/gde/1128248) | #tomo  #guide |
 | [G1 Colour Critera](https://www1.flightrising.com/forums/gde/2944215/1) | #sales #dergs |
 | [G1 Pinglist](https://fr-g1hoarders.github.io/GEESPinglist/g1-pinglist/) | #sales  #dergs |
+| [A Poor Man's Guide To Baldwin's](https://www1.flightrising.com/forums/gde/2884586) | #baldwins  #guide  |
